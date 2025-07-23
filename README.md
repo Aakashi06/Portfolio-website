@@ -3,7 +3,3 @@ Update Soon!
 
 Tech Stack
 
-
-
-
-
