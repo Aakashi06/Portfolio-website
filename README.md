@@ -1,6 +1,15 @@
 # Portfolio-website
 Update Soon!
 
-Tech Stack
+
+# Built with :
+Frontend: HTML, CSS, Javascript
+<br>
+Framework:React.js
+<br>
+Version Control: Git
+<br>
+Hosting: vercel
+
 
 
