@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ascii-type {
+  animation: typing 0.8s steps(80, end) forwards;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* You can add this in index.css or tailwind.config.js via custom plugin */
+.pixel-border {
+  border: 6px dotted #A54DE3;
+  box-shadow: 0 0 0 10px #32004d;
+  border-radius: 20px;
+}
+
